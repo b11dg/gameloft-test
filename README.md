@@ -4,7 +4,7 @@ Modern e-commerce product showcase built with React 19, TypeScript, and Tailwind
 
 ## 🚀 Live Demo
 
-**Deployed Site:** [Add Vercel URL here after deployment]  
+**Deployed Site:** [https://gameloft-test.netlify.app](https://gameloft-test.netlify.app)  
 **GitHub Repository:** [https://github.com/b11dg/gameloft-test](https://github.com/b11dg/gameloft-test)
 
 ## ✨ Features
