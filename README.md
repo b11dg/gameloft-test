@@ -5,7 +5,7 @@ Modern e-commerce product showcase built with React 19, TypeScript, and Tailwind
 ## 🚀 Live Demo
 
 **Deployed Site:** [Add Vercel URL here after deployment]  
-**GitHub Repository:** [Add repo URL here]
+**GitHub Repository:** [https://github.com/b11dg/gameloft-test](https://github.com/b11dg/gameloft-test)
 
 ## ✨ Features
 
